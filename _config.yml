@@ -1,19 +1,18 @@
 # Site settings
-title: Jekyll Doc Theme
+title: CUPID Experiment
 email: your-email@domain.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  Home
 lang: en-US
 
-baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+baseurl: "/CUPID-website-demo" # the subpath of your site, e.g. /blog/
+# url: https://aksakalli.github.io/CUPID-website-demo # the base hostname & protocol for your site
+# git_address: https://github.com/aksakalli/CUPID-website-demo
+# git_edit_address: https://github.com/aksakalli/CUPID-website-demo/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
-bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
+bootwatch: cosmo # cerulean cosmo custom cyborg darkly flatly journal lumen paper readable sandstone simplex slate solar spacelab superhero united yeti
 
 # Build settings
 markdown: kramdown

@@ -1,11 +1,15 @@
-- title: Getting Started
+- title: Physics & Experiment
   docs:
   - home
-  - themes
-  - customization
+  # - themes
+  - nldbd
+  - collaboration
 
-- title: Examples
+- title: CUPID in the media
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  # - cheatsheet
+  # - font-awesome
+  # - bootstrap
+  - publications
+  - presentations
+  - cupid-press
